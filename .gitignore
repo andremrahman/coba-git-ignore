@@ -8,3 +8,4 @@ data/
 *.exe
 
 # recommended gitignore list: https://github.com/github/gitignore
+# generate gitignore; https://gitignore.io
